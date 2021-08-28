@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Denk+One&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Denk One", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding-top: 15px;  
+    margin-bottom: 70px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.navbar div{
+    font-size: larger;
+    padding-right: 50px;
+    
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    background-color: pink;
+    height: 200px;
+    padding-top: 60px;
+}
+
+.content {
+  width: 70vw;
+  margin-left: 180px;
+  text-align: justify;
+}
+.content h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.content div{
+    margin-bottom: 70px;
+}

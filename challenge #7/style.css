@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 25px;
+}
+div.first-section{
+    background-color: aquamarine;
+    width: 20vw;
+    height: 100vh;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+div.second-section{
+    display: block;
+    width: 80vw;
+        
+}
+
+div.first{
+    background-color: rgb(122, 199, 122);
+    height: 25vh;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+div.second{
+    background-color: white;
+    height: 50vh;
+    padding-left: 30px;
+    padding-top: 30px;
+
+
+}
+
+div.third{
+    background-color: rgb(122, 199, 122);
+    height: 25vh;
+    padding-left: 30px;
+    padding-top: 30px;
+
+
+}

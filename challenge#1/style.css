@@ -1,0 +1,61 @@
+body {
+  background-color: rgba(212, 230, 254, 255);
+}
+h1 {
+  color: rgba(90, 98, 248, 255);
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+}
+div {
+  background-color: white;
+  margin-top: 10%;
+  margin-left: 35%;
+  padding: 0px 30px 30px 30px;
+  display: inline-block;
+}
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: rgba(90, 98, 248, 255);
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+}
+p {
+  color: #47caa7;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+}
+.question {
+  color: #47caa7;
+  font-weight: normal;
+}
+#fname,
+#sname,
+#tele,
+#gmail {
+  background-color: #e7e9fe;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  border-radius: 5px;
+  width: 200px;
+  height: 40px;
+  border-style: hidden;
+}
+#pta {
+  background-color: #c7cdfd;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  border-radius: 5px;
+  border-style: hidden;
+  width: 410px;
+}
+#submit {
+  color: rgb(236, 236, 236);
+  background-color: #233bf5;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  border-radius: 20px;
+  padding: 8px;
+  width: 120px;
+  border-style: hidden;
+  margin-left: 145px;
+}

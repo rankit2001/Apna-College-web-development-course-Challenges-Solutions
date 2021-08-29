@@ -1,0 +1,32 @@
+div.baby-flex{
+    background-color:#b96f3b;
+}
+
+div.d, div.e, div.f{
+    display: flex;
+    color:#b96f3b;
+}
+div.d div{
+    width:33.33%;
+    height:150px;
+    margin: 5px;
+    background-color: #e2e2cf
+    ;
+    border-radius: 5%;
+}
+div.e div{
+    width:33.33%;
+    height:150px;
+    margin: 5px;
+    background-color: #e2e2cf
+    ;
+    border-radius: 5%;
+}
+div.f div{
+    width:33.33%;
+    height:150px;
+    margin: 5px;
+    background-color: #e2e2cf
+    ;
+    border-radius: 5%;
+}

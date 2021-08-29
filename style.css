@@ -1,0 +1,33 @@
+ div.a, div.b, div.c{
+    display:flex ;
+    color: white;
+}
+div.baby-flex, div.g, div.h, div.b div, div.c div{
+    background-color:#b96f3b;
+    width:33.33%;
+    height:150px;
+    margin: 2px;
+    background-color: #b96f3b;
+    border-radius: 3%;
+}
+div.d, div.e, div.f{
+    display: flex;
+    color:#b96f3b;
+}
+
+div.b div, div.c div{
+    width:33.33%;
+    height:50px;
+    margin: 2px;
+    background-color: #b96f3b;
+    border-radius: 3%;
+}
+
+div.d div, div.e div, div.f div{
+    width:33.33%;
+    height:30px;
+    margin: 2px;
+    background-color: #e2e2cf
+    ;
+    border-radius: 3%;
+}
